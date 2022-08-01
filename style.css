@@ -1,4 +1,8 @@
 .header{
+    font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki
     background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*1tmisop*_ga*MjA3NjExODE0NS4xNjU4MjY3MTk2*_ga_3LRZM6TM9L*MTY1OTM0MjMwOC42Ni4xLjE2NTkzNDMzMTYuNjA.');
 }
 
